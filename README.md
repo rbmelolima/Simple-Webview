@@ -1,5 +1,6 @@
-# Simples Webview em Electron
-Esse projeto faz parte de um tutorial de Electron. A utilidade dele é poder ter sempre uma janela web aberta em primeiro plano o tempo todo. 
+# :bookmark_tabs: Sobre
+Esse projeto faz parte de um tutorial de Electron.
+A utilidade dele é poder ter sempre uma janela web aberta em primeiro plano o tempo todo. 
 
 ## :hammer: Instalação
 ```bash
